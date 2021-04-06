@@ -1,0 +1,12 @@
+#mycarousel {
+    background-color:hotpink;
+    
+}
+ #mycarousel img {
+     height: 300px;
+     margin-top: 30px;
+ }
+body {
+    text-align: center;
+    background-color:rgba(125, 226, 240, 0.973);
+}
